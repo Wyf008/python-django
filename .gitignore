@@ -1,5 +1,5 @@
+python-django/
+.idea
 *.pyc
 *.swp
 *.sqlite3
-python-django
-.idea
