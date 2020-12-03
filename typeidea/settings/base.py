@@ -34,6 +34,8 @@ INSTALLED_APPS = [
     # My apps
     'accounts',
     'blog',
+    'config',
+    'comment',
 
     # 第三方应用库
     'captcha',
